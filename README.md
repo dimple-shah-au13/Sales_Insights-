@@ -8,7 +8,7 @@ To unlock sales insights that are not visible before for sales team for decision
 
 ## 📊 Dataset  -->>>>
 
-- db_dump.sql (MySQL)99999999999999
+- <a href="https://github.com/dimple-shah-au13/Sales_Insights-/blob/main/SQL%20QUERIES/db_dump.sql">Dataset</a>
 
 
 ## 🔧 Tools & Libraries  -->>>>
@@ -20,9 +20,9 @@ To unlock sales insights that are not visible before for sales team for decision
 
 ## 📊 Power BI Dashboard Interaction -->>>>
 
-- <a href="https://github.com/dimple-shah-au13/Key_Insights.png">View Dashboard</a>
-- <a href="https://github.com/dimple-shah-au13/Performance_Insights.png">View Dashboard</a>
-- <a href="https://github.com/dimple-shah-au13/Profit_Analysis.png">View Dashboard</a>
+- <a href="https://github.com/dimple-shah-au13/Sales_Insights-/blob/main/Images/Key_Insights.png">Key Insights</a>
+- <a href="https://github.com/dimple-shah-au13/Sales_Insights-/blob/main/Images/Performance_Insights.png">Performance Insights</a>
+- <a href="https://github.com/dimple-shah-au13/Sales_Insights-/blob/main/Images/Profit_Analysis.png">Profit Analysis</a>
 
 
 ## 📈 Exploratory Data Analysis -->>>>
